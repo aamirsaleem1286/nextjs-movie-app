@@ -7,7 +7,7 @@ const page = () => {
 <div >
       <ContactCard/>
       <section className={styles.contact_section}>
-                    <h2 className="text-4xl">We'd love to hear <span> from you </span></h2>
+                    <h2 className="text-4xl">We love to hear <span> from you </span></h2>
 
                     <ContactForm/>
                 </section>
